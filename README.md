@@ -1,0 +1,2 @@
+# bankist
+For learning puposes
